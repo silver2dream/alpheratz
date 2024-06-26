@@ -1,2 +1,2 @@
 # alpheratz
-C++ Log 框架, 從 Andromeda 專案拆分出來。
+A C++ logging framework, extracted from the Andromeda project.
